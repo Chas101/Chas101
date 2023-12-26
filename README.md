@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Chas101/osticket-ex-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chas101/TL-EX.git)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Chas101/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Chas101/AD-EX.git)
 
 <h2>🤳Connect with me:</h2>
 
